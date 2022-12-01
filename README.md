@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF"/>
+<a href="https://www.linkedin.com/in/ulanov-pavel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF"/></a>
 
 ### About me
 I have a lot of experience in the construction and implementation of economic and management reports. I have practical experience working in a team. I like to use Scrum and Agile tools in my work. Team-oriented with a growth mindset, able to multi-task and collaborate with clients for success.
